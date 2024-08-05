@@ -1,0 +1,92 @@
+
+.signup-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .logo {
+    font-size: 32px;
+    font-weight: bold;
+    color: #00bcd4;
+  }
+  
+  h2 {
+    margin-top: 10px;
+    color: #333;
+  }
+  
+  p {
+    color: #666;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .input-container {
+    position: relative;
+    margin-bottom: 15px;
+  }
+  
+  .input-container label {
+    display: block;
+    margin-bottom: 5px;
+    color: #00bcd4;
+  }
+  
+  .input-container input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #00bcd4;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .password-toggle {
+    position: absolute;
+    right: 15px;
+    top: 35px;
+    cursor: pointer;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #00bcd4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .login-text {
+    margin-top: 10px;
+    color: #333;
+  }
+  
+  .login-text a {
+    color: #00bcd4;
+    text-decoration: none;
+  }
+  
+  .bottom-nav {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    max-width: 400px;
+    margin-top: 20px;
+  }
+  
+  .bottom-nav svg {
+    font-size: 24px;
+    color: #00bcd4;
+    cursor: pointer;
+  }
+  

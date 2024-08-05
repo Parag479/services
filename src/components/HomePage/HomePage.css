@@ -1,0 +1,91 @@
+/* HomePage.css */
+.home-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .banner {
+    position: relative;
+    margin-top: 20px;
+  }
+  
+  .banner-image {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .banner-text {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #ffffff;
+  }
+  
+  .banner-text h2 {
+    margin: 0;
+  }
+  
+  .discount {
+    color: #ff6b6b;
+  }
+  
+  .services {
+    margin-top: 20px;
+  }
+  
+  .services h3 {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .service-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .service-item {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .service-icon {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .specialists {
+    margin-top: 20px;
+  }
+  
+  .specialists h3 {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .specialist-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .specialist-item {
+    text-align: center;
+  }
+  
+  .specialist-image {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .verified {
+    color: #00bcd4;
+  }
+  

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Parag479/services/static/css/main.aad4fb6d.css",
+    "main.js": "/Parag479/services/static/js/main.9cd6e76a.js",
+    "static/js/488.6c7d47b2.chunk.js": "/Parag479/services/static/js/488.6c7d47b2.chunk.js",
+    "index.html": "/Parag479/services/index.html",
+    "main.aad4fb6d.css.map": "/Parag479/services/static/css/main.aad4fb6d.css.map",
+    "main.9cd6e76a.js.map": "/Parag479/services/static/js/main.9cd6e76a.js.map",
+    "488.6c7d47b2.chunk.js.map": "/Parag479/services/static/js/488.6c7d47b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad4fb6d.css",
+    "static/js/main.9cd6e76a.js"
+  ]
+}
